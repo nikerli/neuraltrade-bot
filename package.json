@@ -1,0 +1,13 @@
+{
+  "name": "neuraltrade-bot",
+  "version": "1.0.0",
+  "description": "KI Trading Bot - Capital.com",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
