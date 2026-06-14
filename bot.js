@@ -5,7 +5,7 @@
 import https from "https";
 import http  from "http";
 
-const CAPITAL_BASE   = process.env.CAPITAL_BASE ?? "https://api-capital.backend-capital.com/";
+const CAPITAL_BASE   = process.env.CAPITAL_BASE ?? "https://api-capital.backend-capital.com/api/v1";
 const API_KEY        = process.env.CAPITAL_API_KEY;
 const IDENTIFIER     = process.env.CAPITAL_IDENTIFIER;
 const PASSWORD       = process.env.CAPITAL_PASSWORD;
