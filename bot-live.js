@@ -3,7 +3,7 @@
 //  Capital.com Live API · Claude AI Brain · Telegram Alerts
 // ════════════════════════════════════════════════════════════════
 
-const CAPITAL_BASE   = process.env.CAPITAL_BASE ?? "https://api-capital.backend.gbst.com/api/v1";
+const CAPITAL_BASE   = process.env.CAPITAL_BASE ?? "https://api-capital.backend-capital.com/";
 const API_KEY        = process.env.CAPITAL_API_KEY;
 const IDENTIFIER     = process.env.CAPITAL_IDENTIFIER;
 const PASSWORD       = process.env.CAPITAL_PASSWORD;
